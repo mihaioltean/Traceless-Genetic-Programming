@@ -1,5 +1,5 @@
-# Traceless-Genetic-Programming
-A very fast variant of Genetic Programming
+# Traceless Genetic Programming
+A very fast variant of Genetic Programming.
 
 ## Source code
 
